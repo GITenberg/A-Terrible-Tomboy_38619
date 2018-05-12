@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2544
     wikipedia: http://en.wikipedia.org/wiki/Angela_Brazil
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38619#A-Terrible-Tomboy
 gutenberg_issued: '2012-01-20'
 gutenberg_type: Text
 identifiers:
